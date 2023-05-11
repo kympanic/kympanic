@@ -1,7 +1,5 @@
-[![MasterHead]([https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://kympanic.github.io/)
 <h1 align="center">Hi 👋, I'm Daniel Yoo</h1>
 <h3 align="center">I used to make teeth, now I make apps. I am an aspiring software developer residing in Moreno Valley, CA</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://trivia-fighter.s3.us-west-2.amazonaws.com/Images/hackerpanda.jpg”>
 
 - 🌱 I’m currently learning **Next.js, tailwindcss**
 
