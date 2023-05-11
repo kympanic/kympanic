@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dacapo0509@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RyyKN6HVjKxa3OUytK5zdotLve-mQZF7AcTFP-M14is/edit](https://docs.google.com/document/d/1RyyKN6HVjKxa3OUytK5zdotLve-mQZF7AcTFP-M14is/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1RyyKN6HVjKxa3OUytK5zdotLve-mQZF7AcTFP-M14is/edit)
 
 - ⚡ Fun fact **Creating customized themes on Xanga was my first exposure to coding**
 
