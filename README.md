@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1RyyKN6HVjKxa3OUytK5zdotLve-mQZF7AcTFP-M14is/edit)
 
+- Check out my blog! [Blog](https://dacapo0509.wixsite.com/step-by-tech)
+
 - ⚡ Fun fact **Creating customized themes on Xanga was my first exposure to coding**
 
 <h3 align="left">Connect with me:</h3>
