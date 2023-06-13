@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Yoo</h1>
 <h3 align="center">I used to make teeth, now I make apps. I am an aspiring software developer residing in Moreno Valley, CA</h3>
 <img align="right" alt-"Coding" width="400" src="https://camo.githubusercontent.com/09ff6e47fe7b0bfe9a3ec183d7fa234fa0e8522ca494a1f0ad379499505c57bf/68747470733a2f2f696d6167652e6d79616e696d656c6973742e6e65742f75692f42514d366a455a2d554a4c6747557576724e6b59554379374649464b4b423943794c665071735158356c7655324f484d46484d5047624252627363454f6b39473471787279556a726c7537334169517134614b434877">
-- 🌱 I’m currently learning **Next.js, tailwindcss** and refactoring my capstone project
+- 🌱 I’m currently learning **Next.js, tailwindcss** 
 
 - 👨‍💻 All of my projects are available at [https://kympanic.github.io/](https://kympanic.github.io/)
 
